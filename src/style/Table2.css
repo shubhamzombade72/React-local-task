@@ -1,0 +1,37 @@
+.home {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .home h2 {
+    font-size: 2rem;
+    color: black; 
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .home p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid lightgray; 
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+  }
+  
+  tr:nth-child(even) {
+  }
